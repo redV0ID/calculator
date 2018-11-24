@@ -1,0 +1,17 @@
+C:\Users\Packarbell\documents\visual studio 2010\Projects\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Packarbell\documents\visual studio 2010\Projects\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Packarbell\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Packarbell\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Packarbell\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\Packarbell\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.exe
+C:\Users\Packarbell\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.pdb
+C:\Users\Packarbell\Documents\Visual Studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\61\Беловол Роман\calculator\calculator\obj\x86\Debug\calculator.exe
+D:\61\Беловол Роман\calculator\calculator\obj\x86\Debug\calculator.pdb
+D:\61\Беловол Роман\calculator\calculator\bin\Debug\calculator.exe
+D:\61\Беловол Роман\calculator\calculator\bin\Debug\calculator.pdb
+D:\61\Беловол Роман\calculator\calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\61\Беловол Роман\calculator\calculator\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\61\Беловол Роман\calculator\calculator\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\61\Беловол Роман\calculator\calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\61\Беловол Роман\calculator\calculator\obj\x86\Debug\GenerateResource.write.1.tlog
