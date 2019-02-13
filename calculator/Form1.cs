@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -291,7 +291,7 @@ namespace WindowsFormsApplication1
             }
         }
 
-        private void катангенс_Click(object sender, EventArgs e)
+        private void котангенс_Click(object sender, EventArgs e)
         {
             if (window.Text != "")
             {
